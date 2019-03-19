@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        " R ",
+        " O "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_water_diamond"
+        },
+		
+		"O":
+        {
+            "item": "ogeldiamonds:item_obsidian_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:sword_water_diamond",
+        "count": 1
+    }
+}

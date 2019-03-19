@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " T ",
+        "PRO",
+        " W "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_obsidian_stone"
+        },
+		
+        "T":
+        {
+            "item": "ogeldiamonds:item_earth_diamond_dust"
+        },
+		
+        "O":
+        {
+            "item": "ogeldiamonds:item_fire_diamond_dust"
+        },
+		
+        "P":
+        {
+            "item": "ogeldiamonds:item_water_diamond_dust"
+        },
+		
+        "W":
+        {
+            "item": "ogeldiamonds:item_diamond_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_magic_stone",
+        "count": 1
+    }
+}

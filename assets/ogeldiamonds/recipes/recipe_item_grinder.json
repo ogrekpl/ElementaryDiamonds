@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        " R ",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_grinder",
+        "count": 1
+    }
+}

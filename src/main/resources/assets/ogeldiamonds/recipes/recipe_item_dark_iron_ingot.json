@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " O ",
+        "ORO",
+        " O "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+		
+		"O":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_dark_iron_ingot",
+        "count": 2
+    }
+}

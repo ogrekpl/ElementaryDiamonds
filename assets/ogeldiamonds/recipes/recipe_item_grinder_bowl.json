@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "ogeldiamonds:item_grinder"
+    },
+ 
+    {
+      "item": "ogeldiamonds:item_stone_bowl"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "ogeldiamonds:item_grinder_bowl",
+        "count": 1
+    }
+}

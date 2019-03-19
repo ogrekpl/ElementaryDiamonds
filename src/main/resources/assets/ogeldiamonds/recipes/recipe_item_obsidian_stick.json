@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "ogeldiamonds:item_obsidian_stone"
+    },
+	
+	{
+      "item": "minecraft:stick"
+    }
+	
+    ],
+
+    "result": 
+    {
+        "item": "ogeldiamonds:item_obsidian_stick",
+        "count": 1
+    }
+}

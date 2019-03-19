@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "ROR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:coal",
+            "data": 0
+        },
+        
+        "O":
+        {
+            "item": "ogeldiamonds:block_compresed_flint"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_raw_coal_chunk",
+        "count": 1
+    }
+}

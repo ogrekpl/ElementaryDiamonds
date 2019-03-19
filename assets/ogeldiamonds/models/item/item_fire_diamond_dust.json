@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "ogeldiamonds:items/item_fire_diamond_dust"
+   }
+}

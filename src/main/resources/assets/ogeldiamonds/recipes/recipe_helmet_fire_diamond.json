@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "# #"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "ogeldiamonds:item_fire_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:helmet_fire_diamond",
+        "count": 1
+    }
+}

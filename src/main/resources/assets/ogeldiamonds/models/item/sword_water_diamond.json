@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "ogeldiamonds:items/sword_water_diamond"
+   }
+}

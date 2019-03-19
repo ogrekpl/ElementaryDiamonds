@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "ogeldiamonds:items/pickaxe_earth_diamond"
+   }
+}

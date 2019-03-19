@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_earth_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:block_earth_diamond",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "ogeldiamonds:blocks/block_earth_diamond_ore"
+   }
+}

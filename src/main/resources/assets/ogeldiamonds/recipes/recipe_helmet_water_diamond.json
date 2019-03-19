@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "# #"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "ogeldiamonds:item_water_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:helmet_water_diamond",
+        "count": 1
+    }
+}

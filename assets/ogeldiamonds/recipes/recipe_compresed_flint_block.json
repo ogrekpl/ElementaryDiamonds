@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:flint"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:block_compresed_flint",
+        "count": 1
+    }
+}

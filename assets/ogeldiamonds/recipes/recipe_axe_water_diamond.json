@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RR ",
+        "RO ",
+        " O "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_water_diamond"
+        },
+		
+		"O":
+        {
+            "item": "ogeldiamonds:item_obsidian_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:axe_water_diamond",
+        "count": 1
+    }
+}

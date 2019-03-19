@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "ogeldiamonds:item_water_diamond"
+    }
+	
+    ],
+
+    "result": 
+    {
+        "item": "ogeldiamonds:item_water_diamond_nugget",
+        "count": 9
+    }
+}

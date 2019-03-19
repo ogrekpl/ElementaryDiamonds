@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        " O ",
+        " O "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_earth_diamond"
+        },
+		
+		"O":
+        {
+            "item": "ogeldiamonds:item_obsidian_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:pickaxe_earth_diamond",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " RR",
+        "R#R",
+        "ROR"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "ogeldiamonds:item_coal_chunk"
+        },
+		
+		"R":
+        {
+            "item": "ogeldiamonds:item_obsidian_stick"
+        },
+		
+		"#":
+        {
+            "item": "ogeldiamonds:item_magic_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_magic_fuel",
+        "count": 1
+    }
+}

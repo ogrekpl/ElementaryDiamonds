@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "ROR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ogeldiamonds:item_obsidian_nugget"
+        },
+		
+		"O":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "ogeldiamonds:item_obsidian_stone",
+        "count": 1
+    }
+}
